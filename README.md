@@ -23,7 +23,7 @@ confirm our claims.
 
 ## Links to files
 
-*Update to include your own links*
+*[Update to include your own links]*
 
 - [Manuscript](https://www.overleaf.com/read/zkkthvvntqqd#b7d069)
 - [Slides](https://canva.link/02xdo8oxssqt7rx)
